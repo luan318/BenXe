@@ -1,0 +1,32 @@
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DTO\bin\Debug\DTO.exe.config
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DTO\bin\Debug\DTO.exe
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DTO\bin\Debug\DTO.pdb
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DTO\obj\Debug\DTO.csproj.GenerateResource.Cache
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DTO\obj\Debug\DTO.exe
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DTO\obj\Debug\DTO.pdb
+D:\admin\QuanLyBenXe\DTO\bin\Debug\DTO.exe.config
+D:\admin\QuanLyBenXe\DTO\bin\Debug\DTO.exe
+D:\admin\QuanLyBenXe\DTO\bin\Debug\DTO.pdb
+D:\admin\QuanLyBenXe\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\admin\QuanLyBenXe\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\admin\QuanLyBenXe\DTO\obj\Debug\DTO.csproj.GenerateResource.Cache
+D:\admin\QuanLyBenXe\DTO\obj\Debug\DTO.exe
+D:\admin\QuanLyBenXe\DTO\obj\Debug\DTO.pdb
+D:\QuanLyBenXe\DTO\bin\Debug\DTO.exe.config
+D:\QuanLyBenXe\DTO\bin\Debug\DTO.exe
+D:\QuanLyBenXe\DTO\bin\Debug\DTO.pdb
+D:\QuanLyBenXe\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\QuanLyBenXe\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\QuanLyBenXe\DTO\obj\Debug\DTO.csproj.GenerateResource.Cache
+D:\QuanLyBenXe\DTO\obj\Debug\DTO.exe
+D:\QuanLyBenXe\DTO\obj\Debug\DTO.pdb
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\DTO\bin\Debug\DTO.exe.config
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\DTO\bin\Debug\DTO.exe
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\DTO\bin\Debug\DTO.pdb
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\DTO\obj\Debug\DTO.Properties.Resources.resources
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\DTO\obj\Debug\DTO.csproj.GenerateResource.Cache
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\DTO\obj\Debug\DTO.exe
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\DTO\obj\Debug\DTO.pdb

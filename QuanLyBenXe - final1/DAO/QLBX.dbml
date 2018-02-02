@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QuanLyBenXe" Class="QLBXDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;Initial Catalog=QuanLyBenXe;Integrated Security=True" SettingsObjectName="DAO.Properties.Settings" SettingsPropertyName="QuanLyBenXeConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.NhanVien" Member="NhanViens">
+    <Type Name="NhanVien" Id="ID1">
+      <Column Name="id_nhan_vien" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TaiKhoan" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MatKhau" Type="System.String" DbType="VarChar(1000) NOT NULL" CanBeNull="false" />
+      <Column Name="HoatDong" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Association Name="NhanVien_PhanQuyenNguoiDung" Member="PhanQuyenNguoiDungs" ThisKey="id_nhan_vien" OtherKey="id_nhan_vien" Type="PhanQuyenNguoiDung" />
+    </Type>
+  </Table>
+  <Table Name="dbo.NhomNguoiDung" Member="NhomNguoiDungs">
+    <Type Name="NhomNguoiDung">
+      <Column Name="id_nhom_nguoi_dung" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ten_nhom_nguoi_dung" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="NhomNguoiDung_PhanQuyenNguoiDung" Member="PhanQuyenNguoiDungs" ThisKey="id_nhom_nguoi_dung" OtherKey="id_nhom_nguoi_dung" Type="PhanQuyenNguoiDung" />
+      <Association Name="NhomNguoiDung_PhanQuyenNhom" Member="PhanQuyenNhoms" ThisKey="id_nhom_nguoi_dung" OtherKey="id_nhom_nguoi_dung" Type="PhanQuyenNhom" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PhanQuyenNguoiDung" Member="PhanQuyenNguoiDungs">
+    <Type Name="PhanQuyenNguoiDung">
+      <Column Name="id_nhan_vien" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="id_nhom_nguoi_dung" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="NhanVien_PhanQuyenNguoiDung" Member="NhanVien" ThisKey="id_nhan_vien" OtherKey="id_nhan_vien" Type="NhanVien" IsForeignKey="true" />
+      <Association Name="NhomNguoiDung_PhanQuyenNguoiDung" Member="NhomNguoiDung" ThisKey="id_nhom_nguoi_dung" OtherKey="id_nhom_nguoi_dung" Type="NhomNguoiDung" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PhanQuyenNhom" Member="PhanQuyenNhoms">
+    <Type Name="PhanQuyenNhom">
+      <Column Name="id_nhom_nguoi_dung" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="id_man_hinh" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="quyen" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Association Name="NhomNguoiDung_PhanQuyenNhom" Member="NhomNguoiDung" ThisKey="id_nhom_nguoi_dung" OtherKey="id_nhom_nguoi_dung" Type="NhomNguoiDung" IsForeignKey="true" />
+      <Association Name="ManHinh_PhanQuyenNhom" Member="ManHinh" ThisKey="id_man_hinh" OtherKey="id_man_hinh" Type="ManHinh" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ManHinh" Member="ManHinhs">
+    <Type Name="ManHinh">
+      <Column Name="id_man_hinh" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ten_man_hinh" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="ManHinh_PhanQuyenNhom" Member="PhanQuyenNhoms" ThisKey="id_man_hinh" OtherKey="id_man_hinh" Type="PhanQuyenNhom" />
+    </Type>
+  </Table>
+  <Function Name="dbo.pro_delete_PhanQuyenNguoiDung" Method="pro_delete_PhanQuyenNguoiDung">
+    <Parameter Name="IdNhanVien" Parameter="idNhanVien" Type="System.Int32" DbType="Int" />
+    <Parameter Name="IdNhomNguoiDung" Parameter="idNhomNguoiDung" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pro_delete_PhanQuyenNhom" Method="pro_delete_PhanQuyenNhom">
+    <Parameter Name="id_nhom_nguoi_dung_del" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pro_KiemTraDangNhap" Method="pro_KiemTraDangNhap">
+    <Parameter Name="TaiKhoan" Parameter="taiKhoan" Type="System.String" DbType="VarChar(100)" />
+    <Parameter Name="MatKhau" Parameter="matKhau" Type="System.String" DbType="VarChar(100)" />
+    <ElementType Name="pro_KiemTraDangNhapResult">
+      <Column Name="id_nhan_vien" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="TaiKhoan" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MatKhau" Type="System.String" DbType="VarChar(1000) NOT NULL" CanBeNull="false" />
+      <Column Name="HoatDong" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.pro_KiemTraHoatDong" Method="pro_KiemTraHoatDong">
+    <Parameter Name="TaiKhoan" Parameter="taiKhoan" Type="System.String" DbType="VarChar(100)" />
+    <ElementType Name="pro_KiemTraHoatDongResult">
+      <Column Name="id_nhan_vien" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="TaiKhoan" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MatKhau" Type="System.String" DbType="VarChar(1000) NOT NULL" CanBeNull="false" />
+      <Column Name="HoatDong" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.pro_KiemTraQuyen" Method="pro_KiemTraQuyen">
+    <Parameter Name="TaiKhoan" Parameter="taiKhoan" Type="System.String" DbType="VarChar(100)" />
+    <ElementType Name="pro_KiemTraQuyenResult">
+      <Column Name="id_man_hinh" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.pro_show_DanhSachNguoiDung_DK" Method="pro_show_DanhSachNguoiDung_DK">
+    <Parameter Name="IdNhom" Parameter="idNhom" Type="System.Int32" DbType="Int" />
+    <ElementType IdRef="ID1" />
+  </Function>
+  <Function Name="dbo.pro_show_DanhSachNguoiDung_TheoNhom" Method="pro_show_DanhSachNguoiDung_TheoNhom">
+    <Parameter Name="IdNhom" Parameter="idNhom" Type="System.Int32" DbType="Int" />
+    <ElementType IdRef="ID1" />
+  </Function>
+  <Function Name="dbo.pro_show_PhanQuyen" Method="pro_show_PhanQuyen">
+    <Parameter Name="IdNhom" Parameter="idNhom" Type="System.Int32" DbType="Int" />
+    <ElementType Name="pro_show_PhanQuyenResult">
+      <Column Name="id_nhom_nguoi_dung" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ten_nhom_nguoi_dung" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="id_man_hinh" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ten_man_hinh" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="quyen" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.pro_ThemPhanQuyenNhom" Method="pro_ThemPhanQuyenNhom">
+    <Parameter Name="Id_nhom" Parameter="id_nhom" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pro_insert_PhanQuyenNguoiung" Method="pro_insert_PhanQuyenNguoiung">
+    <Parameter Name="IdNhanVien" Parameter="idNhanVien" Type="System.Int32" DbType="Int" />
+    <Parameter Name="IdNhomNguoiDung" Parameter="idNhomNguoiDung" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

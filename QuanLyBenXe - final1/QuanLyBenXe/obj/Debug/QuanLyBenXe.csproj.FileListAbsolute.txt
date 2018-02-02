@@ -1,0 +1,734 @@
+c:\users\hp\documents\visual studio 2013\Projects\QuanLyBenXe\QuanLyBenXe\bin\Debug\QuanLyBenXe.exe.config
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\QuanLyBenXe\bin\Debug\QuanLyBenXe.exe
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\QuanLyBenXe\bin\Debug\QuanLyBenXe.pdb
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.frmLogin.resources
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.Properties.Resources.resources
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.csproj.GenerateResource.Cache
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.exe
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.pdb
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.exe.licenses
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.frmMain.resources
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucKhacHang.resources
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\QuanLyBenXe.exe.config
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\QuanLyBenXe.exe
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\QuanLyBenXe.pdb
+D:\admin\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.csprojResolveAssemblyReference.cache
+D:\admin\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.frmLogin.resources
+D:\admin\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.frmMain.resources
+D:\admin\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.Properties.Resources.resources
+D:\admin\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucKhacHang.resources
+D:\admin\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.csproj.GenerateResource.Cache
+D:\admin\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.exe.licenses
+D:\admin\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.exe
+D:\admin\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.pdb
+D:\admin\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.UserNhanVien.resources
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DAO.exe
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DTO.exe
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DAO.pdb
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DTO.pdb
+D:\admin\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.DSChiecXe.resources
+D:\admin\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.DSChuyen.resources
+D:\admin\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.DSSoDoChuyenXe.resources
+D:\admin\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.DatVeXe.resources
+D:\admin\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.SoDoXe.resources
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DongHoHeThong.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DongHoHeThong.pdb
+D:\admin\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.QuanLyTuyen.resources
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Data.v16.1.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Utils.v16.1.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Data.v16.1.xml
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Utils.v16.1.xml
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Mvvm.v16.1.dll
+D:\admin\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Mvvm.v16.1.xml
+D:\admin\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.Thongke.resources
+D:\admin\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.csproj.ResolveComReference.cache
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\QuanLyBenXe.exe.config
+D:\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.csproj.ResolveComReference.cache
+D:\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.exe
+D:\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.pdb
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\QuanLyBenXe.exe
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\QuanLyBenXe.pdb
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DAO.exe
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Data.v16.1.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Mvvm.v16.1.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Utils.v16.1.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DTO.exe
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DAO.pdb
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DTO.pdb
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Data.v16.1.xml
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Mvvm.v16.1.xml
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Utils.v16.1.xml
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DongHoHeThong.pdb
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.csprojResolveAssemblyReference.cache
+D:\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.DatVeXe.resources
+D:\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.DSChiecXe.resources
+D:\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.DSChuyen.resources
+D:\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.DSSoDoChuyenXe.resources
+D:\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.frmLogin.resources
+D:\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.frmMain.resources
+D:\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.Properties.Resources.resources
+D:\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.QuanLyTuyen.resources
+D:\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.SoDoXe.resources
+D:\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.Thongke.resources
+D:\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucKhacHang.resources
+D:\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.UserNhanVien.resources
+D:\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.csproj.GenerateResource.Cache
+D:\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.exe.licenses
+D:\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucNhanVien.resources
+D:\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucNhom.resources
+D:\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucQuanLyNhanVien.resources
+D:\QuanLyBenXe\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucQuanLyNhom.resources
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\BUS.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\BUS.pdb
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.XtraBars.v16.1.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Office.v16.1.Core.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.XtraBars.v16.1.xml
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Office.v16.1.Core.xml
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+D:\QuanLyBenXe\QuanLyBenXe\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\QuanLyBenXe.exe.config
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.csproj.ResolveComReference.cache
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.exe
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.pdb
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\QuanLyBenXe.exe
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\QuanLyBenXe.pdb
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\BUS.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DAO.exe
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Data.v16.1.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Mvvm.v16.1.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Utils.v16.1.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DTO.exe
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\BUS.pdb
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DAO.pdb
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DTO.pdb
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Data.v16.1.xml
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Mvvm.v16.1.xml
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Utils.v16.1.xml
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DongHoHeThong.pdb
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.csprojResolveAssemblyReference.cache
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.frmLogin.resources
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.DatVeXe.resources
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.DSChiecXe.resources
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.DSChuyen.resources
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.DSSoDoChuyenXe.resources
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.frmMain.resources
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.Properties.Resources.resources
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.QuanLyTuyen.resources
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.SoDoXe.resources
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.Thongke.resources
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucKhacHang.resources
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.UserNhanVien.resources
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucNhanVien.resources
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucNhom.resources
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucQuanLyNhanVien.resources
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucQuanLyNhom.resources
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.csproj.GenerateResource.Cache
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.exe.licenses
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\numberhoangluan.dll
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\numberhoangluan.pdb
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.doive.resources
+D:\BTVN\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\Microsoft.CSharp.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\QuanLyBenXe.exe.config
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\QuanLyBenXe.exe
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\QuanLyBenXe.pdb
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\BUS.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DAO.exe
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Data.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Mvvm.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Utils.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraBars.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DTO.exe
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\Microsoft.CSharp.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Office.v16.1.Core.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\BUS.pdb
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DAO.pdb
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DTO.pdb
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Data.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Mvvm.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Utils.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraBars.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Office.v16.1.Core.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.csprojResolveAssemblyReference.cache
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.csproj.ResolveComReference.cache
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.doive.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.frmLogin.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.DatVeXe.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.DSChiecXe.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.DSChuyen.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.DSSoDoChuyenXe.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.frmMain.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.Properties.Resources.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.QuanLyTuyen.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.SoDoXe.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.Thongke.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucKhacHang.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.UserNhanVien.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucDoiMatKhau.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucNhanVien.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucNhom.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucQuanLyNhanVien.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucQuanLyNhom.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.csproj.GenerateResource.Cache
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.exe.licenses
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.exe
+E:\Downloads\Compressed\QuanLyBenXe - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.pdb
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\QuanLyBenXe.exe.config
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.csproj.ResolveComReference.cache
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.exe
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.pdb
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\QuanLyBenXe.exe
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\QuanLyBenXe.pdb
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\BUS.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\DAO.exe
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\DevExpress.Data.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\DevExpress.Mvvm.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\DevExpress.Utils.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\DTO.exe
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\Microsoft.CSharp.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\BUS.pdb
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\DAO.pdb
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\DTO.pdb
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\DevExpress.Data.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\DevExpress.Mvvm.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\DevExpress.Utils.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.csprojResolveAssemblyReference.cache
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.doive.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.frmLogin.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.DatVeXe.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.DSChiecXe.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.DSChuyen.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.DSSoDoChuyenXe.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.frmMain.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.Properties.Resources.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.QuanLyTuyen.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.SoDoXe.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.Thongke.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucKhacHang.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.UserNhanVien.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucDoiMatKhau.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucNhanVien.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucQuanLyNhanVien.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucQuanLyNhom.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.csproj.GenerateResource.Cache
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\QuanLyBenXe\obj\Debug\QuanLyBenXe.exe.licenses
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\QuanLyBenXe.exe.config
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.csproj.ResolveComReference.cache
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.exe
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.pdb
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\QuanLyBenXe.exe
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\QuanLyBenXe.pdb
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\BUS.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DAO.exe
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Data.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Mvvm.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Utils.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraBars.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DTO.exe
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\Microsoft.CSharp.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Office.v16.1.Core.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\BUS.pdb
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DAO.pdb
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DTO.pdb
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Data.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Mvvm.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Utils.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraBars.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Office.v16.1.Core.xml
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.csprojResolveAssemblyReference.cache
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.doive.resources
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.frmLogin.resources
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.DatVeXe.resources
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.DSChiecXe.resources
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.DSChuyen.resources
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.DSSoDoChuyenXe.resources
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.frmMain.resources
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.Properties.Resources.resources
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.QuanLyTuyen.resources
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.SoDoXe.resources
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.Thongke.resources
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucKhacHang.resources
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.UserNhanVien.resources
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucDoiMatKhau.resources
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucNhanVien.resources
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucQuanLyNhanVien.resources
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucQuanLyNhom.resources
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.csproj.GenerateResource.Cache
+E:\Downloads\Compressed\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.exe.licenses
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\QuanLyBenXe.exe.config
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.csproj.ResolveComReference.cache
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.exe
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.pdb
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\QuanLyBenXe.exe
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\QuanLyBenXe.pdb
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\BUS.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DAO.exe
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Data.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Mvvm.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Utils.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DTO.exe
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\Microsoft.CSharp.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\BUS.pdb
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DAO.pdb
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DTO.pdb
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Data.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Mvvm.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.Utils.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.csprojResolveAssemblyReference.cache
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.doive.resources
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.frmLogin.resources
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.DatVeXe.resources
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.DSChiecXe.resources
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.DSChuyen.resources
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.DSSoDoChuyenXe.resources
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.frmMain.resources
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.Properties.Resources.resources
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.QuanLyTuyen.resources
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.SoDoXe.resources
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.Thongke.resources
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucKhacHang.resources
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.UserNhanVien.resources
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucDoiMatKhau.resources
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucNhanVien.resources
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucQuanLyNhanVien.resources
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.ucQuanLyNhom.resources
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.csproj.GenerateResource.Cache
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\obj\Debug\QuanLyBenXe.exe.licenses
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraBars.v16.1.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\DevExpress.XtraBars.v16.1.xml
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\QuanLyBenXe\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll

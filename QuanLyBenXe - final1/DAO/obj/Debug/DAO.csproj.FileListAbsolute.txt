@@ -1,0 +1,75 @@
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DAO\bin\Debug\DAO.exe.config
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DAO\bin\Debug\DAO.exe
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DAO\bin\Debug\DAO.pdb
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DAO\bin\Debug\DTO.exe
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DAO\bin\Debug\DTO.pdb
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DAO\obj\Debug\DAO.Properties.Resources.resources
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DAO\obj\Debug\DAO.csproj.GenerateResource.Cache
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DAO\obj\Debug\DAO.exe
+C:\Users\HP\documents\visual studio 2013\Projects\QuanLyBenXe\DAO\obj\Debug\DAO.pdb
+D:\admin\QuanLyBenXe\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\admin\QuanLyBenXe\DAO\obj\Debug\DAO.Properties.Resources.resources
+D:\admin\QuanLyBenXe\DAO\obj\Debug\DAO.csproj.GenerateResource.Cache
+D:\admin\QuanLyBenXe\DAO\obj\Debug\DAO.exe
+D:\admin\QuanLyBenXe\DAO\obj\Debug\DAO.pdb
+D:\admin\QuanLyBenXe\DAO\bin\Debug\DAO.exe.config
+D:\admin\QuanLyBenXe\DAO\bin\Debug\DAO.exe
+D:\admin\QuanLyBenXe\DAO\bin\Debug\DAO.pdb
+D:\admin\QuanLyBenXe\DAO\bin\Debug\DTO.exe
+D:\admin\QuanLyBenXe\DAO\bin\Debug\DTO.pdb
+D:\admin\QuanLyBenXe\DAO\obj\Debug\DAO.SoDoXe16Cho.resources
+D:\QuanLyBenXe\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\QuanLyBenXe\DAO\obj\Debug\DAO.Properties.Resources.resources
+D:\QuanLyBenXe\DAO\obj\Debug\DAO.SoDoXe16Cho.resources
+D:\QuanLyBenXe\DAO\obj\Debug\DAO.csproj.GenerateResource.Cache
+D:\QuanLyBenXe\DAO\obj\Debug\DAO.exe
+D:\QuanLyBenXe\DAO\obj\Debug\DAO.pdb
+D:\QuanLyBenXe\DAO\bin\Debug\DAO.exe.config
+D:\QuanLyBenXe\DAO\bin\Debug\DAO.exe
+D:\QuanLyBenXe\DAO\bin\Debug\DAO.pdb
+D:\QuanLyBenXe\DAO\bin\Debug\DTO.exe
+D:\QuanLyBenXe\DAO\bin\Debug\DTO.pdb
+D:\BTVN\QuanLyBenXe - Copy\DAO\bin\Debug\DAO.exe.config
+D:\BTVN\QuanLyBenXe - Copy\DAO\bin\Debug\DAO.exe
+D:\BTVN\QuanLyBenXe - Copy\DAO\bin\Debug\DAO.pdb
+D:\BTVN\QuanLyBenXe - Copy\DAO\bin\Debug\DTO.exe
+D:\BTVN\QuanLyBenXe - Copy\DAO\bin\Debug\DTO.pdb
+D:\BTVN\QuanLyBenXe - Copy\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\BTVN\QuanLyBenXe - Copy\DAO\obj\Debug\DAO.Properties.Resources.resources
+D:\BTVN\QuanLyBenXe - Copy\DAO\obj\Debug\DAO.SoDoXe16Cho.resources
+D:\BTVN\QuanLyBenXe - Copy\DAO\obj\Debug\DAO.csproj.GenerateResource.Cache
+D:\BTVN\QuanLyBenXe - Copy\DAO\obj\Debug\DAO.exe
+D:\BTVN\QuanLyBenXe - Copy\DAO\obj\Debug\DAO.pdb
+E:\Downloads\Compressed\QuanLyBenXe - Copy\DAO\bin\Debug\DAO.exe.config
+E:\Downloads\Compressed\QuanLyBenXe - Copy\DAO\bin\Debug\DAO.exe
+E:\Downloads\Compressed\QuanLyBenXe - Copy\DAO\bin\Debug\DAO.pdb
+E:\Downloads\Compressed\QuanLyBenXe - Copy\DAO\bin\Debug\DTO.exe
+E:\Downloads\Compressed\QuanLyBenXe - Copy\DAO\bin\Debug\DTO.pdb
+E:\Downloads\Compressed\QuanLyBenXe - Copy\DAO\obj\Debug\DAO.Properties.Resources.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy\DAO\obj\Debug\DAO.SoDoXe16Cho.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy\DAO\obj\Debug\DAO.csproj.GenerateResource.Cache
+E:\Downloads\Compressed\QuanLyBenXe - Copy\DAO\obj\Debug\DAO.exe
+E:\Downloads\Compressed\QuanLyBenXe - Copy\DAO\obj\Debug\DAO.pdb
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\DAO\bin\Debug\DAO.exe.config
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\DAO\bin\Debug\DAO.exe
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\DAO\bin\Debug\DAO.pdb
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\DAO\bin\Debug\DTO.exe
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\DAO\bin\Debug\DTO.pdb
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\DAO\obj\Debug\DAO.Properties.Resources.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\DAO\obj\Debug\DAO.SoDoXe16Cho.resources
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\DAO\obj\Debug\DAO.csproj.GenerateResource.Cache
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\DAO\obj\Debug\DAO.exe
+E:\Downloads\Compressed\QuanLyBenXe - Copy - Copy\DAO\obj\Debug\DAO.pdb
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\DAO\bin\Debug\DAO.exe.config
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\DAO\bin\Debug\DAO.exe
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\DAO\bin\Debug\DAO.pdb
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\DAO\bin\Debug\DTO.exe
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\DAO\bin\Debug\DTO.pdb
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\DAO\obj\Debug\DAO.Properties.Resources.resources
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\DAO\obj\Debug\DAO.SoDoXe16Cho.resources
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\DAO\obj\Debug\DAO.csproj.GenerateResource.Cache
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\DAO\obj\Debug\DAO.exe
+E:\Downloads\Compressed\QuanLyBenXe\QuanLyBenXe - final1\DAO\obj\Debug\DAO.pdb

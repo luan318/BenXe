@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 10.5" name="QLBX">
+  <DataContextMoniker Name="/QLBXDataContext" />
+  <nestedChildShapes>
+    <classShape Id="368f5fe2-b6ed-4342-8074-0efe43a1dced" absoluteBounds="0.75, 8.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/QLBXDataContext/NhanVien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="961ecb02-2cc8-42b9-b1ec-b0201bcd729e" absoluteBounds="0.765, 9.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6dc2ec26-b055-4c6d-abbd-a9fd32783d43" absoluteBounds="0.75, 3.875, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/QLBXDataContext/NhomNguoiDung" />
+      <nestedChildShapes>
+        <elementListCompartment Id="32b0ebf5-4af7-44e6-8fcf-d578dee0e98f" absoluteBounds="0.765, 4.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="32f32813-a8ad-485d-acbb-8cd25a3f9005" absoluteBounds="3.5, 3.875, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/QLBXDataContext/PhanQuyenNguoiDung" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7d397f08-27bb-4846-b204-d43be4051f44" absoluteBounds="3.515, 4.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="63e3c580-3b9a-491f-88f9-0f53ae7ef351" absoluteBounds="3.5, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/QLBXDataContext/PhanQuyenNhom" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bc1d5532-8262-4513-a49e-182a53574b2e" absoluteBounds="3.515, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="72529c83-63d2-4244-83cd-f351588fb558" absoluteBounds="0.75, 6.25, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/QLBXDataContext/ManHinh" />
+      <nestedChildShapes>
+        <elementListCompartment Id="622903f3-399d-4209-8b77-4e4e6acc421b" absoluteBounds="0.765, 6.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 9.41429768880208); (4.5 : 9.41429768880208); (4.5 : 5.06899251302083)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QLBXDataContext/NhanVien/NhanVien_PhanQuyenNguoiDung" />
+      <nodes>
+        <classShapeMoniker Id="368f5fe2-b6ed-4342-8074-0efe43a1dced" />
+        <classShapeMoniker Id="32f32813-a8ad-485d-acbb-8cd25a3f9005" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.47199625651042); (3.04166666666667 : 4.47199625651042 : JumpStart); (3.20833333333333 : 4.47199625651042 : JumpEnd); (3.5 : 4.47199625651042)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QLBXDataContext/NhomNguoiDung/NhomNguoiDung_PhanQuyenNguoiDung" />
+      <nodes>
+        <classShapeMoniker Id="6dc2ec26-b055-4c6d-abbd-a9fd32783d43" />
+        <classShapeMoniker Id="32f32813-a8ad-485d-acbb-8cd25a3f9005" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 3.875); (1.75 : 1.44314697265625); (3.5 : 1.44314697265625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QLBXDataContext/NhomNguoiDung/NhomNguoiDung_PhanQuyenNhom" />
+      <nodes>
+        <classShapeMoniker Id="6dc2ec26-b055-4c6d-abbd-a9fd32783d43" />
+        <classShapeMoniker Id="63e3c580-3b9a-491f-88f9-0f53ae7ef351" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 6.25091745577925); (3.125 : 5.87591745577925); (3.125 : 1.82097245898437); (3.5 : 1.82097245898437)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QLBXDataContext/ManHinh/ManHinh_PhanQuyenNhom" />
+      <nodes>
+        <classShapeMoniker Id="72529c83-63d2-4244-83cd-f351588fb558" />
+        <classShapeMoniker Id="63e3c580-3b9a-491f-88f9-0f53ae7ef351" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
